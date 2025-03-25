@@ -14,7 +14,7 @@ Hey there! 👋 This is a fun little project I built to learn frontend developme
 
 Getting Started
 1️⃣ Clone the repo
-git clone https://github.com/yourusername/email-validation-app.git
+git clone https://github.com/Anjanakumariiii/-iValidate-Simple-Email-Validator
 2️⃣ Open index.html in your browser
 3️⃣ Enter an email and hit submit!
 
